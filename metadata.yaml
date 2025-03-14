@@ -1,0 +1,28 @@
+_repo: Cavalry-life-in-tent-and-field_75558
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Boyd, Mrs. Orsemus Bronson
+    gutenberg_agent_id: '58047'
+    url: http://www.gutenberg.org/2009/agents/58047
+description: ''
+gutenberg_issued: '2025-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75558'
+language: en
+pgterms:marc904: https://archive.org/details/cavalrylifeinten00boydrich
+pgterms:marc905: 20221026122441boyd
+pgterms:marc906: '1894'
+pgterms:marc907: us
+production_note: Peter Becker, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bJ. Selwin Tait & Sons, $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Cavalry life in tent and field
+url: http://www.gutenberg.org/ebooks/75558
