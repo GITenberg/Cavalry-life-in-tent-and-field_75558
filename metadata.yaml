@@ -1,11 +1,16 @@
 _repo: Cavalry-life-in-tent-and-field_75558
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75558-h/images/cover.jpg
 creator:
   author:
     agent_name: Boyd, Mrs. Orsemus Bronson
     gutenberg_agent_id: '58047'
     url: http://www.gutenberg.org/2009/agents/58047
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75558#Cavalry-life-in-tent-and-field
 gutenberg_issued: '2025-03-08'
 gutenberg_type: Text
 identifiers:
